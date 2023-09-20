@@ -17,6 +17,7 @@ I am currently open to new opportunities and professional connections. Feel free
 I'm skilled in a variety of technologies, including:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![React](https://img.shields.io/badge/React-blue)
 ![Redux](https://img.shields.io/badge/Redux-purple)
