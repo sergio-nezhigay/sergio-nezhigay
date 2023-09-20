@@ -35,5 +35,5 @@ I'm skilled in a variety of technologies, including:
 
 **Contacts:**
 - LinkedIn: [https://www.linkedin.com/in/nezhigay-serhiy/](https://www.linkedin.com/in/nezhigay-serhiy/)
-- Telegram: @abc1971h
+- Telegram: [@abc1971h](https://t.me/abc1971h)
 - Gmail: abc1971h@gmail.com
