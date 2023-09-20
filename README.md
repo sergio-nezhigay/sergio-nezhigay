@@ -18,16 +18,19 @@ I am currently open to new opportunities and professional connections. Feel free
 
 I'm skilled in a variety of technologies, including:
 
-![TypeScript](https://img.shields.io/badge/TypeScript-v4.0.5-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-v14.17-green)
-![React](https://img.shields.io/badge/React-v17.0.2-blue)
-![Redux](https://img.shields.io/badge/Redux-v4.1.1-purple)
-![MySQL](https://img.shields.io/badge/MySQL-v8.0.26-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-v5.0.2-green)
-![GraphQL](https://img.shields.io/badge/GraphQL-v15.6.2-pink)
-![Webpack](https://img.shields.io/badge/Webpack-v5.1.0-blue)
-![Jest](https://img.shields.io/badge/Jest-v27.3.1-red)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![React](https://img.shields.io/badge/React-blue)
+![Redux](https://img.shields.io/badge/Redux-purple)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![Webpack](https://img.shields.io/badge/Webpack-blue)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blueviolet)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue)
+![Material-UI](https://img.shields.io/badge/Material--UI-teal)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+![WordPress](https://img.shields.io/badge/WordPress-blue)
 
 **Contacts:**
 - LinkedIn: [https://www.linkedin.com/in/nezhigay-serhiy/](https://www.linkedin.com/in/nezhigay-serhiy/)
