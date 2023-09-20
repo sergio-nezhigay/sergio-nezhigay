@@ -16,7 +16,6 @@ I am currently open to new opportunities and professional connections. Feel free
 
 I'm skilled in a variety of technologies, including:
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![React](https://img.shields.io/badge/React-blue)
@@ -29,6 +28,9 @@ I'm skilled in a variety of technologies, including:
 ![Material-UI](https://img.shields.io/badge/Material--UI-teal)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
 ![WordPress](https://img.shields.io/badge/WordPress-blue)
+![Google AdWords](https://img.shields.io/badge/Google%20AdWords-green)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-blue)
+![SEO](https://img.shields.io/badge/SEO-orange)
 
 **Contacts:**
 - LinkedIn: [https://www.linkedin.com/in/nezhigay-serhiy/](https://www.linkedin.com/in/nezhigay-serhiy/)
