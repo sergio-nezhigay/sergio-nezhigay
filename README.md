@@ -28,9 +28,7 @@ I am currently open to new opportunities and professional connections. Feel free
   </a>
 </div>
 
-## Codewars Rank 🏆
-
-Check out my Codewars profile and see my coding rank!
+## 🏆 Codewars Rank
 
 <a href="https://www.codewars.com/users/your-username">
     <img src="https://www.codewars.com/users/sergio-nezhigay/badges/large" alt="Codewars Rank" />
