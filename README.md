@@ -54,7 +54,7 @@ I am currently open to new opportunities and professional connections. Feel free
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Shadcd/UI](https://img.shields.io/badge/shadcn/ui-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![Shadcd/UI](https://img.shields.io/badge/Shadcn/UI-<COLOR>?style=for-the-badge&logo=shadcn&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
