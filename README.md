@@ -5,14 +5,14 @@
 
 **Skills & Qualities:**
 
-- 💻 **Programming:** Proficient in JavaScript, TypeScript, React, Node.js, and Next.js.
-- 🧩 **Problem-Solving:** Tenacious and skilled at resolving challenges.
-- 🛠️ **Work Ethic:** Committed to tasks and ensuring customer satisfaction.
-- 🤝 **Teamwork:** Collaborative and adept at cross-functional communication.
-- ⏰ **Deadline Management:** Effective at meeting project timelines, even under pressure.
-- 💬 **Negotiations & Customer Service:** Experienced in negotiations and delivering exceptional customer service.
+- 🛍️ **Shopify Development:** Commercial experience with Hydrogen and Remix; built both public and custom Shopify apps.
+- 🔧 **Web Tech Stack:** Solid foundation in JavaScript, React, HTML, CSS, and Node.js; currently diving deeper into Liquid.
+- 🚀 **Results-Oriented:** Enjoy building real, shippable products—like my live Hydrogen store and apps.
+- 🧠 **Fast Learner:** Thrive in new environments; hackathon winner with a passion for problem-solving.
+- 🤝 **Collaborative:** Strong communication skills and a team-first mindset.
+- ⏱️ **Reliable:** Deliver on time, even under pressure.
 
-I am currently open to new opportunities and professional connections. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nezhigay-serhiy/) or via email at abc1971h@gmail.com.
+I am currently open to new opportunities and professional connections. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nezhigay-serhiy/) or via email at nezhihai@gmail.com.
 
 **Contacts:**
 
@@ -23,7 +23,7 @@ I am currently open to new opportunities and professional connections. Feel free
   <a href="https://t.me/abc1971h" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:abc1971h@gmail.com">
+  <a href="mailto:nezhihai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
