@@ -1,20 +1,37 @@
 # Hi there, I'm Serhii Nezhyhai! ✨
 
-✍️ About Me:
-🌍 I'm a creative individual with a diverse background, including running my own online IT equipment store. However, due to the Ukraine war, I shifted my focus towards IT development, where I've made substantial progress over the past 1-2 years, building an impressive project portfolio. Feel free to check out my CV for more details
+✍️ **About Me:**
+🌍 I'm a creative individual with a diverse background, including running my own online IT equipment store. Due to the Ukraine war, I pivoted to IT development, where over the past 1-2 years, I've built an impressive project portfolio. I’m particularly passionate about Shopify development, with a strong focus on Liquid—the Shopify templating language that powers seamless ecommerce experiences. Feel free to check out my CV for more details.
 
-**Skills & Qualities:**
+---
 
-- 🛍️ **Shopify Development:** Commercial experience with Hydrogen and Remix; built both public and custom Shopify apps.
-- 🔧 **Web Tech Stack:** Solid foundation in JavaScript, React, HTML, CSS, and Node.js; currently diving deeper into Liquid.
-- 🚀 **Results-Oriented:** Enjoy building real, shippable products—like my live Hydrogen store and apps.
-- 🧠 **Fast Learner:** Thrive in new environments; hackathon winner with a passion for problem-solving.
-- 🤝 **Collaborative:** Strong communication skills and a team-first mindset.
-- ⏱️ **Reliable:** Deliver on time, even under pressure.
+## Skills & Qualities
 
-I am currently open to new opportunities and professional connections. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nezhigay-serhiy/) or via email at nezhihai@gmail.com.
+- 🛍️ **Shopify Development & Liquid Expertise:**
+  Commercial experience with Hydrogen, Remix, and Shopify’s Liquid templating language; built public and custom Shopify apps and themes that optimize user experience and business performance.
 
-**Contacts:**
+- 🔧 **Web Tech Stack:**
+  Solid foundation in JavaScript, React, HTML, CSS, and Node.js; actively deepening my mastery of Liquid to build custom Shopify themes and apps.
+
+- 🚀 **Results-Oriented:**
+  Enjoy delivering real, shippable products—like my live Hydrogen store and Shopify apps.
+
+- 🧠 **Fast Learner:**
+  Thrive in new environments; hackathon winner passionate about solving complex problems.
+
+- 🤝 **Collaborative:**
+  Strong communication skills with a team-first mindset.
+
+- ⏱️ **Reliable:**
+  Deliver on time, even under pressure.
+
+---
+
+I am currently open to new opportunities and professional connections. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nezhigay-serhiy/) or via email at nezhihai@gmail.com.
+
+---
+
+## Contacts
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nezhigay-serhiy/" target="_blank">
@@ -28,13 +45,17 @@ I am currently open to new opportunities and professional connections. Feel free
   </a>
 </div>
 
+---
+
 ## 🏆 Codewars Rank
 
 <a href="https://www.codewars.com/users/sergio-nezhigay">
-    <img src="https://www.codewars.com/users/sergio-nezhigay/badges/large" alt="Codewars Rank" />
+  <img src="https://www.codewars.com/users/sergio-nezhigay/badges/large" alt="Codewars Rank" />
 </a>
 
-# 💻 Tech Stack:
+---
+
+# 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,13 +91,16 @@ I am currently open to new opportunities and professional connections. Feel free
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sergio-nezhigay&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sergio-nezhigay&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-nezhigay&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergio-nezhigay&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergio-nezhigay&theme=default&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-nezhigay&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sergio-nezhigay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sergio-nezhigay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
